@@ -1,2 +1,53 @@
-MARKDOWN
-MARKDOWN
+
+"MARKDOWN"
+
+Plain text formatting syntax: https://daringfireball.net/projects/markdown/syntax
+
+Markdown is a writing format. Thus, Markdown’s formatting syntax only addresses issues that can be conveyed in plain text.
+
+BASIC SYNTAX
+	1) Paragraph of text in Markdown
+
+	2) Headings
+	
+	3) Alternative Syntax
+	
+	4) Paragraphs & Line Breaks
+	
+	5) Emphasis
+	
+	6) Italic
+	
+	7) Bold
+	
+	8) Italic & Bold
+	
+	9) Lists
+	
+	10) Ordered Lists
+	
+	11) Unordered Lists
+	
+	12) Nested Lists
+	
+	13) Blockquotes
+	
+		- Basic Blockquote
+	
+		- Blockquotes With More Than One Paragraph
+		
+		- Nested Blockquotes
+	14) Code Spans & Blocks
+	
+		- Code Spans
+		
+		
+		
+
+---------------------------------------------------------------------------
+
+Software tool: converts the plain text formatting to HTML
+Haroopad
+
+
+
